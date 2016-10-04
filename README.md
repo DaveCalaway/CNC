@@ -1,4 +1,4 @@
-##Modified for Chinese 50W CO2 Laser Engraving Cutting Machine
+##Improvement for Chinese 50W CO2 Laser Engraving Cutting Machine
 
 This project was born for replace the original electronic chinese card, that moved the laser cutter machine, with **RAMPS 1.4** or **Arduino CNC Shield** . In addiction i made DIY driver for a much more laser power.  
 
