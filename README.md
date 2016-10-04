@@ -173,7 +173,7 @@ I added pull-up and RC filters on X-Y Endstops for avoid false limits trigger.
 
 
 ###Top coverage switch  
-In my machine i have 3 types of security systems:
+In my machine i have 3 types of security systems:  
 1. Enable/Disable laser in front of machine  
 2. Panic button, disable all machine power  
 3. Water level check  
