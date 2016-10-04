@@ -69,10 +69,10 @@ for decided how many *Jumpers* you could use: [RAMPS](http://goo.gl/bCJXzR) or [
 Moreover take a look for a good orientation.
 
 In my case, i buyed two A4988 and i will use only one jumper for 16 microsteps on RAMPS.  
-<img src="https://github.com/DaveCalaway/buildlog-lasercutter-marlin/blob/master/RAMPS_1.4_board.jpg" width="600"/>
+<img src="https://github.com/DaveCalaway/CNC/blob/master/RAMPS_1.4_board.jpg" width="600"/>
 
 If you want to use the single A4988, remember this schematic:  
-<img src="https://raw.githubusercontent.com/DaveCalaway/buildlog-lasercutter-marlin/master/Images/allegro.png" width="600"/>  
+<img src="https://raw.githubusercontent.com/DaveCalaway/CNC/master/Images/allegro.png" width="600"/>  
 
 16 microsteps : MS1, MS2, and MS3 must be connected to HIGH ( 5V ).  
 
@@ -88,7 +88,7 @@ I used a red pen to count the pulley tooth, and the caliber for belt pitch.
 
 My results, *160.00*, save this number for the future:  
 
-<img src="https://raw.githubusercontent.com/DaveCalaway/buildlog-lasercutter-marlin/master/Images/StepperXmm.jpg" width="600"/>  
+<img src="https://raw.githubusercontent.com/DaveCalaway/CNC/master/Images/StepperXmm.jpg" width="600"/>  
 
 ###EndStop
 My CNC machine has 2 Optical EndStop. They are wonderful for RAMPS 1.4.  
@@ -183,7 +183,7 @@ For many reasone i would like to add another security system, on Top coverage.
 
 The system it's pretty easy, i added a meccanical switch in the same line of 1 & 3 devices.  
 
-<img src="https://raw.githubusercontent.com/DaveCalaway/buildlog-lasercutter-marlin/master/Images/Top%20coverage%20switch.jpg" width="400"/>
+<img src="https://raw.githubusercontent.com/DaveCalaway/CNC/master/Images/Top%20coverage%20switch.jpg" width="400"/>
 
 
 
