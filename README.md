@@ -195,8 +195,3 @@ The system it's pretty easy, i added a meccanical switch in the same line of 1 &
 [ ] Z axis  
 [ ] Thermal shutdown  
 soon....  
-
-
---------------------------------------------------------------------
-
-Davide Gariselli.

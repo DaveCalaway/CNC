@@ -8,7 +8,3 @@ This project was born for replace the **Arduino CNC Shield**, it presents noise 
 - New RC filters for EndStops   
 
 **Status**: *beta*  
-
---------------------------------------------------------------------
-
-Davide Gariselli.
