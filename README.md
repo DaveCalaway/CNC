@@ -1,6 +1,7 @@
 ##Improvement for Chinese 50W CO2 Laser Engraving Cutting Machine
 
-This project was born for replace the original electronic chinese card, that moved the laser cutter machine, with **RAMPS 1.4** or **Arduino CNC Shield** . In addiction i made DIY driver for a much more laser power.  
+This project was born for replace the original electronic chinese card, that moved the laser cutter machine, with **RAMPS 1.4** or **Arduino CNC Shield** .  
+In addiction i made DIY driver for a much more laser power, take a look at "DIY_Driver_Controller" folder.  
 
 Now the laser cutter machine can work with G-Code and Laser-Web app.
 
@@ -14,7 +15,6 @@ We have three types of schematics:
 - Chinese original schematic
 - RAMPS schematic
 - CNC Shield schematic
-- DIY schematic  
 
 ##Meaning of the  laser's signals
 The original schematic of RAMP at *original_diagram* reported two differents signals for the laser:
